@@ -21,9 +21,9 @@ export class BooksComponent  {
  
   isShowing = true;
 
-  addToCard(book: Book){
-    console.log(book);
-  }
+  // addToCard(book: Book){
+  //   console.log(book);
+  // }
 
 
   
